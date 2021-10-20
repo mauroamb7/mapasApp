@@ -4,4 +4,4 @@ Aplicación de mapbox para agregar marcadores los cuales representan casas en ve
 
 ## Other
 
-Para probar la app: ``
+Para probar la app: `https://mapas-app.netlify.app/`
